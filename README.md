@@ -1,5 +1,9 @@
 ###针对 RN 0.63 + 的 BUG 作者迟迟没更新
+
+
 ###在官方更新之前  可以先使用我这个地址,
+
+
 "react-native-spring-scrollview": "github:qqqwwweee333/SpringScrollView",
 ****索性亲自动手风衣足食
 
